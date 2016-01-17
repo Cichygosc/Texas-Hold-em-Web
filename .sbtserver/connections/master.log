@@ -1,0 +1,13 @@
+New log file opened at Sat Dec 26 19:20:11 CET 2015 by 5324@Kuba-Komputer
+Taking next connection to: 62326
+New client attempting to connect on port: 62327-62326
+  Address = /192.168.56.1:62326
+This client on port 62327 has uuid dd705362-fb35-482f-87fa-90d5cdd64252 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-dd705362-fb35-482f-87fa-90d5cdd64252
+Taking next connection to: 62326
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 62326
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 62326

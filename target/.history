@@ -1,0 +1,30 @@
+
+-jvm-debug 9999
+jvm-debug 9999
+activator -jvm-debug 9999
+exit
+run
+exit
+eclipse
+eclipsify
+eclipse
+run
+clean-all
+clean-files
+run
+exit
+run
+eclipse
+test
+run
+clean-files
+acrivator run
+run
+eclipse
+run
+exit
+clean-files
+run
+q
+exit
+run
